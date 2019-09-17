@@ -1,4 +1,5 @@
 # PROCESS Initial Architectures
+<a href="https://zenodo.org/badge/latestdoi/209019054"><img src="https://zenodo.org/badge/209019054.svg" alt="DOI"></a>
 
 This repository contains the first Use Case Application for UC#1 of the
 PROCESS project, http://www.process-project.eu/.
